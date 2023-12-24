@@ -6,7 +6,6 @@
 
 - [Introduction](#introduction)
 - [Objective](#objective)
-- [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -19,10 +18,6 @@ This repository contains the code and documentation for my thesis project titled
 ## Objective
 
 The main objective of this thesis is to investigate the effectiveness of leveraging biological network structures and algorithms to find efficient solutions to NP-complete problems. By combining principles from computational biology and theoretical computer science, the project aims to contribute novel insights into solving complex problems.
-
-## Features
-
-- **Biological Network Modeling:** 
 
 ## Prerequisites
 
